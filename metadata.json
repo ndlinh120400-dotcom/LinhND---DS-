@@ -1,0 +1,6 @@
+{
+  "name": "Phần mềm quản lý án - Tòa án nhân dân khu vực II",
+  "description": "Hệ thống quản lý án và danh sách bị án - Tòa án nhân dân khu vực II - Thành phố Hà Nội",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
